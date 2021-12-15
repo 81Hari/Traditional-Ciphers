@@ -2,7 +2,7 @@
 
 C--> Cipher Text
 P --> Plain Text
-k --> Value
+k --> Key 
 
 **To Encrypt**
 
