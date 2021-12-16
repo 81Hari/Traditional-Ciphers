@@ -2,4 +2,4 @@
 
 1. Additive Cipher
 
-
+2. Substitution Cipher
