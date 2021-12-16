@@ -94,7 +94,7 @@ class AdditiveCipher
 
 
 
-    void cryptanalysis()
+    void brute_force()
     {
         int n;    
         cout<<"Cipher Text: ";
@@ -147,7 +147,7 @@ int main()
     {
         case 1: AC.encrypt();break;
         case 2: AC.decrypt();break;
-        case 3: AC.cryptanalysis();break;
+        case 3: AC.brute_force();break;
         default: cout<<"Invalid input";
     }
     return 0;
