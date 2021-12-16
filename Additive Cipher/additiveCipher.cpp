@@ -135,7 +135,7 @@ int main()
     cout<<"\t \t ADDITIVE CIPHER\n";
     cout<<"1.Encryption \n";
     cout<<"2.Decryption \n";
-    cout<<"3.Cryptanalysis \n\n";
+    cout<<"3.Brute Force \n\n";
     cout<<"Enter your Service Number: ";
 
     int ch;
