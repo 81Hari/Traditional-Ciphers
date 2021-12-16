@@ -1,8 +1,8 @@
 # Additive Cipher
 
-C--> Cipher Text \n
-P --> Plain Text \n
-k --> Key \n
+**C--> Cipher Text**
+**P --> Plain Text**
+**k --> Key**
 
 **To Encrypt**
 
