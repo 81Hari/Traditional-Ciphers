@@ -8,12 +8,12 @@
 
 
 
-**To Encrypt**
+**[T0 ENCRYPT]**
 
 C = (P+k)mod 26
 
 
 
-**To Decrypt**
+**[TO DECRYPT]**
 
 P = (C-k)mod 26
